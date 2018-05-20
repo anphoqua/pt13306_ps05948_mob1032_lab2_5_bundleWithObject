@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bundle object</string>
+
+    <string name="activity_main_hint_edt_width">Width:</string>
+    <string name="activity_main_hint_edt_height">Height:</string>
+    <string name="activity_main_btn_solve">Solve</string>
+    <string name="activity_main_textview_result">P = %1s; A=%2s</string>
+
+    <string name="activity_sub_textview_perimeter">Perimeter P = %1s</string>
+    <string name="activity_sub_textview_area">Area A = %1s</string>
+    <string name="activity_sub_btn_back">Back</string>
+
+</resources>
